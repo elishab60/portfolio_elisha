@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_elisha/static/css/main.8249677e.css",
+    "main.js": "/portfolio_elisha/static/js/main.8731330b.js",
+    "static/js/453.b8ed423d.chunk.js": "/portfolio_elisha/static/js/453.b8ed423d.chunk.js",
+    "index.html": "/portfolio_elisha/index.html",
+    "main.8249677e.css.map": "/portfolio_elisha/static/css/main.8249677e.css.map",
+    "main.8731330b.js.map": "/portfolio_elisha/static/js/main.8731330b.js.map",
+    "453.b8ed423d.chunk.js.map": "/portfolio_elisha/static/js/453.b8ed423d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8249677e.css",
+    "static/js/main.8731330b.js"
+  ]
+}
